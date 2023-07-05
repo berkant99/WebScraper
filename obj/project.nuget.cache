@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vz5CycLTX4JbViTCTR3g8I2c26k1+QbkBrnew7DSK0xLdDfZXB4K+xsACVMQiB4r9a0KO64Cys8fOQ4waEHygQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BERKANT\\Downloads\\FlatRockTechTask\\FlatRockTechTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BERKANT\\.nuget\\packages\\htmlagilitypack\\1.11.48\\htmlagilitypack.1.11.48.nupkg.sha512",
+    "C:\\Users\\BERKANT\\.nuget\\packages\\htmlagilitypack.cssselectors\\1.0.2\\htmlagilitypack.cssselectors.1.0.2.nupkg.sha512",
+    "C:\\Users\\BERKANT\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
